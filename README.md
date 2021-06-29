@@ -1,1 +1,1 @@
-# Maxcut_qaoa
+# maxcut-qaoa
